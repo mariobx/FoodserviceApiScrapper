@@ -1,0 +1,1654 @@
+{
+    "actualDeliveryDate": "2025-08-15",
+    "customerPurchaseOrder": null,
+    "customerName": "La Strega Bistro",
+    "customerId": "722619156",
+    "estimatedDeliveryDate": null,
+    "freightInformation": [],
+    "groupNumber": "01",
+    "cancelable": false,
+    "orderDate": "2025-08-14",
+    "orderBlockDescription": null,
+    "orderLines": [
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "462102",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 24.05,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 24.05,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000010",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "600393",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 63.49,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 63.49,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000020",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "699690",
+            "substituteForMaterial": null,
+            "quantityShipped": 7,
+            "productPrice": 13.84,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 7,
+            "total": 96.88,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000030",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "358914",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 38.68,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 38.68,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000040",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "355870",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 60.05,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 60.05,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000050",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "BOX",
+            "materialNumber": "153550",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 4.52,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 9.04,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000060",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "431035",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 53.55,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 53.55,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000070",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "BT",
+            "materialNumber": "446394",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 13.13,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 13.13,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000080",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "838179",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 28.73,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 57.46,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000090",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "EA",
+            "materialNumber": "433435",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 10.9,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 10.9,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000100",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "EA",
+            "materialNumber": "378258",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 17.78,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 17.78,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000110",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "667531",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 18.93,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 18.93,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000120",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "760851",
+            "substituteForMaterial": null,
+            "quantityShipped": 0,
+            "productPrice": 42.11,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 42.11,
+            "lineStatus": "REJECTED",
+            "lineStatusDescription": {
+                "es": "Rechazado",
+                "fr": "Refus\u00e9",
+                "en": "Rejected"
+            },
+            "lineStatusErrorDescription": {
+                "es": "Fuera de stock",
+                "fr": "Rupture\u00a0de\u00a0stock",
+                "en": "Out\u00a0of\u00a0Stock"
+            },
+            "lineStatusSeverity": "ERROR",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000130",
+            "lineWarnings": [
+                {
+                    "resultCode": 80,
+                    "shortDescription": {
+                        "es": "Rechazado",
+                        "fr": "Refus\u00e9",
+                        "en": "Rejected"
+                    },
+                    "severity": "ERROR"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "249371",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 42.77,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 42.77,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000140",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "736691",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 49.18,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 49.18,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000150",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "736741",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 52.31,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 52.31,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000160",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "490672",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 32.28,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 32.28,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000170",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "113990",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 33.96,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 33.96,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000180",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "242190",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 30.25,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 60.5,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000190",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "200956",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 158.6,
+            "productCatchWeightPrice": 2.91,
+            "quantityOrdered": 1,
+            "total": 158.6,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000200",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "641600",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 33.31,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 33.31,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000210",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "299405",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 124.29,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 124.29,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000220",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "896080",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 115.0,
+            "productCatchWeightPrice": 11.5,
+            "quantityOrdered": 1,
+            "total": 115.0,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000230",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "275160",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 105.32,
+            "productCatchWeightPrice": 5.01,
+            "quantityOrdered": 2,
+            "total": 210.64,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000240",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "158704",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 156.4,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 156.4,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000250",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "758111",
+            "substituteForMaterial": null,
+            "quantityShipped": 3,
+            "productPrice": 45.18,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 3,
+            "total": 135.54,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000260",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "653270",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 28.92,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 28.92,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000270",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "558133",
+            "substituteForMaterial": null,
+            "quantityShipped": 3,
+            "productPrice": 18.26,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 3,
+            "total": 54.78,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000280",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "198684",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 24.83,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 24.83,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000290",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "732478",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 30.88,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 30.88,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000300",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "221360",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 32.32,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 32.32,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000310",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "189640",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 83.06,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 166.12,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000320",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "JUG",
+            "materialNumber": "655937",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 17.01,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 17.01,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000330",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "JAR",
+            "materialNumber": "818201",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 22.41,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 22.41,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000340",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "461795",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 83.52,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 83.52,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000350",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "899344",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 46.6,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 46.6,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000360",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "492752",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 28.69,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 28.69,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000370",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "285880",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 24.51,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 49.02,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000380",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "291290",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 24.41,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 24.41,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000390",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "100475",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 15.49,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 30.98,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000400",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "555721",
+            "substituteForMaterial": null,
+            "quantityShipped": 2,
+            "productPrice": 31.66,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 2,
+            "total": 63.32,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000410",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        },
+        {
+            "nonStock": "",
+            "uom": "CS",
+            "materialNumber": "516210",
+            "substituteForMaterial": null,
+            "quantityShipped": 1,
+            "productPrice": 68.76,
+            "productCatchWeightPrice": null,
+            "quantityOrdered": 1,
+            "total": 68.76,
+            "lineStatus": "CONFIRMED",
+            "lineStatusDescription": {
+                "es": "Confirmado",
+                "fr": "Confirm\u00e9",
+                "en": "Confirmed"
+            },
+            "lineStatusErrorDescription": null,
+            "lineStatusSeverity": "SUCCESS",
+            "editableUntilDateTime": null,
+            "editable": false,
+            "lineCancelable": false,
+            "salesDocumentItem": "000420",
+            "lineWarnings": [
+                {
+                    "resultCode": 0,
+                    "shortDescription": {
+                        "es": "Confirmado",
+                        "fr": "Confirm\u00e9",
+                        "en": "Confirmed"
+                    },
+                    "severity": "SUCCESS"
+                }
+            ],
+            "processedCoupon": null,
+            "usdaOrderLineAllocationId": null,
+            "totalLineDiscountAmount": null,
+            "freightInformation": []
+        }
+    ],
+    "orderNumber": "1036423397",
+    "orderStatus": "DELIVERED",
+    "orderStatusDescription": {
+        "es": "Entregado",
+        "fr": "Livr\u00e9",
+        "en": "Delivered"
+    },
+    "orderStatusSeverity": "WARNING",
+    "orderType": "STOCK",
+    "originOrderId": "f2143d4b-69bd-4a85-a7e4-1dacbfb15126",
+    "requestedCustomerArrivalDate": "2025-08-15",
+    "requestedRouteDate": "2025-08-15",
+    "shippedOnDate": null,
+    "submittedByUsername": "Joseph Aponter",
+    "submittedDateTime": "2025-08-14T18:45:16+0000",
+    "totalExtendedPrice": 2441.29,
+    "totalNetPrice": 2441.29,
+    "totalLines": 42,
+    "totalShipping": null,
+    "totalQuantityOrdered": 60,
+    "totalQuantityShipped": 59,
+    "totalWeight": 1291.61,
+    "totalNetWeight": 1184.88,
+    "totalWeightUom": "LB",
+    "totalDiscountAmount": null,
+    "requestedDeliveryType": "03",
+    "usdaOrderAllocationId": null,
+    "storeFulfillment": null,
+    "creditCardDetails": null,
+    "blockCode": null,
+    "shipToAddress": {
+        "shipToAddressHouseNumber": null,
+        "shipToAddressStreetAddress": "275 S Charles Richard Beall Blvd Ste 107",
+        "shipToAddressStreetAddress2": null,
+        "shipToAddressCity": "Debary",
+        "shipToAddressRegion": "FL",
+        "shipToAddressPostalCode": "32713-3719",
+        "shipToAddressTimeZone": "EST",
+        "shipToAddressCountry": "US"
+    }
+}
